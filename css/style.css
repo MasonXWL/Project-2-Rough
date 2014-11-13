@@ -1,0 +1,64 @@
+body {
+  color: #333;
+  background: url(Rough-Grey.jpg);
+  font-size: 16px;
+  font-family: "Oswald", sans-serif;
+  font-family: 'Droid Serif', serif;
+  line-height: 1.5;
+  float: right;
+}
+
+
+h1 {
+  font-family: 'Oswald', sans-serif;
+  color: purple;
+  text-align: center;
+}
+
+h2 {
+  font-family: 'Oswald', sans-serif;
+  color: purple;
+  text-align: center;
+}
+
+h3 {
+    font-family: 'Oswald', sans-serif;
+    color: red;
+    text-decoration: underline;
+}
+
+h4 {
+    font-family: 'Oswald', sans-serif;
+    color: red;
+}
+
+
+ol > li {
+  width: 450px;
+  display: inline-block;
+  text-align: center;
+  list-style-type: none;
+  font-family: 'Droid Serif', serif;
+  font-size:
+}
+
+ol > li > a {
+  text-decoration: none;
+  color: red;
+  display: inline-block;
+  padding: 16px;
+  border: 1px solid #ccc;
+  font-family: 'Droid Serif', serif;
+}
+
+li > a:hover {
+  background: #5A83E0;
+  color: #FFF;
+  border: 1px solid #3D67C8;
+}
+
+
+a,
+a:visited {
+  color: red;
+}
