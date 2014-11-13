@@ -1,0 +1,28 @@
+* {
+  color: black;
+  background: transparent;
+  font-size: 12pt;
+  font-family: serif;
+}
+
+@page {
+  margin: 0.5in;
+}
+
+h1 {
+  text-align: center;
+}
+
+h2 {
+  text-align: center;
+}
+
+
+nav {
+  display: none;
+}
+
+a {
+  text-decoration: none;
+  font-size: 8pt;
+}
